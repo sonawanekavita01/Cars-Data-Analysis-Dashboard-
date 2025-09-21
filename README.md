@@ -22,7 +22,7 @@ This Tableau project explores **trends in the automotive industry** by analyzing
 
 ## 🎯 Business Value
 
-This dashboard helps automotive businesses, car dealers, and analysts to:
+This dashboard helps automotive businesses, car dealers, and analysts to:-
 
 * Understand **historical sales trends and price fluctuations**.
 * Identify **consumer fuel preferences** to plan inventory.
